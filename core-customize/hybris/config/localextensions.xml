@@ -11,8 +11,8 @@
     <extension name='commerceservicesbackoffice' />
     <extension name='solrfacetsearchbackoffice' />
     <extension name='solrserver' />
-    <extension name='yacceleratorinitialdata' />
-	  <extension name= 'yacceleratorstorefront' />
+    <!--extension name='yacceleratorinitialdata' /-->
+	  <!--extension name= 'yacceleratorstorefront' /-->
 	  <extension name= 'electronicsstore' />
 	  <extension name= 'apparelstore' />
 	  <extension name= 'acceleratorwebservicesaddon' />
@@ -95,6 +95,11 @@
 	  <extension name= 'xyformsstorefrontcommons' />
 	  <extension name= 'xyformsweb' />
 	  <extension name= 'orbeonweb' />
+	  
+	  <extension name='powertoolsstore' />
+	  <extension name='b2bcommercebackoffice' />
+	  <extension name='b2bacceleratoraddon' />
+	  <extension name='commerceorgaddon' />
 
 
 <!-- Sample Custom Extensions -->
