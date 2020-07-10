@@ -96,6 +96,7 @@
 	  <extension name= 'xyformsweb' />
 	  <extension name= 'orbeonweb' />
 	  
+	  <!-- My custom extensions-->	  
 	  <extension name='powertoolsstore' />
 	  <extension name='b2bcommercebackoffice' />
 	  <extension name='b2bacceleratoraddon' />
