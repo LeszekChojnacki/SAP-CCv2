@@ -1,6 +1,10 @@
 <hybrisconfig xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='../bin/platform/resources/schemas/extensions.xsd'>
   <extensions>
-    <path dir='${HYBRIS_BIN_DIR}' autoload='false'  depth='4'/>
+    <path dir='${HYBRIS_BIN_DIR}' autoload='false'/>
+
+    <!-- Allows to find sap integration extensions via name attribute -->
+    <path dir='${HYBRIS_BIN_DIR}/ext-integration/sap' depth='2' autoload='false'/>
+    
     <extension name='adaptivesearchsolr' />
     <extension name='adaptivesearchbackoffice' />
     <extension name='adaptivesearchsamplesaddon' />
