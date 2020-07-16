@@ -3,7 +3,8 @@
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",  
-        "mediaconversionbackoffice"
+        "mediaconversionbackoffice",
+	"yb2bacceleratorstorefront"
 	],
 	"useConfig": {
         "properties": [
