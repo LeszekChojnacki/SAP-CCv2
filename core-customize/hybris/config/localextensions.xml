@@ -100,6 +100,7 @@
 <!-- Sample Custom Extensions -->
     <extension name='kiwi' />
     <extension name='tiger'/>
+    <extension name='fix'/>
 
 <!-- Download the Cloud Extension Pack to get these extensions locally https://help.sap.com/viewer/dc198ac31ba24dce96149c8480be955f/1905/en-US/d6bf3abf8b974544a139c49dd3ca12a9.html?q=cloud%20extension%20pack#loioc2a6297b1b094f0cb735c12ef812d96c -->
     <extension name='azurecloudhotfolder' />
