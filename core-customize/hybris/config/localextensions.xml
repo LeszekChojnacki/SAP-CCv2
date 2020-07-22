@@ -3,7 +3,7 @@
     <!-- Uncomment the following if you have enabled Cloud Extension Pack-->
     <!--<path dir='${HYBRIS_BIN_DIR}/modules-cep'  autoload='false' />-->
     
-    <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
+    <path dir='${HYBRIS_BIN_DIR}' autoload='false'  depth='4'/>
     <extension name='adaptivesearchsolr' />
     <extension name='adaptivesearchbackoffice' />
     <extension name='adaptivesearchsamplesaddon' />
