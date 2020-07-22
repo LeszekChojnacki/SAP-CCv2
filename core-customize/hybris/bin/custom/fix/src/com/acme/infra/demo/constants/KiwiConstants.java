@@ -14,13 +14,13 @@
 package com.acme.infra.demo.constants;
 
 /**
- * Global class for all Tiger constants. You can add global constants for your extension into this class.
+ * Global class for all Kiwi constants. You can add global constants for your extension into this class.
  */
-public final class TigerConstants extends GeneratedTigerConstants
+public final class KiwiConstants extends GeneratedKiwiConstants
 {
-	public static final String EXTENSIONNAME = "tiger";
+	public static final String EXTENSIONNAME = "kiwi";
 
-	private TigerConstants()
+	private KiwiConstants()
 	{
 		//empty to avoid instantiating this constant class
 	}
