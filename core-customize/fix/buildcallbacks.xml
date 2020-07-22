@@ -81,14 +81,14 @@
  	  	  	 <exclude name="**/bin/**" />
  	  	 </patternset>
  
---><project name="tiger_buildcallbacks">
+--><project name="fix_buildcallbacks">
 
 	<!-- 
 	    Called whenever 'ant ear' is used. this callback can be used to modify the content of the ear file
 	
 	     ${ear.path}: 			path to ear
 	 -->
-	<macrodef name="tiger_before_ear">
+	<macrodef name="fix_before_ear">
 		<sequential>
 
 			<!-- you can do anything before the EAR file is being packed -->
