@@ -477,9 +477,6 @@
     <session-config>
         <session-timeout>30</session-timeout>
 	<tracking-mode>COOKIE</tracking-mode>
-	<cookie-config>
-		<name>TEST_JSESSIONID</name>
-	</cookie-config>
     </session-config>
 
 
